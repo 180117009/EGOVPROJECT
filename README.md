@@ -7,3 +7,7 @@ The content contains books of following languages: English, French, German, Span
 Wikibooks are divided into chapter and each chapter has its own webpage. This dataset can be used for tasks like Machine Translation, Text Generation,
 Text Parsing and Sematic Understanding of Natural Language. Body contents are provided in both new line delimited textual format as would be visible 
 on the page along with its HTML for a better semantic parsing.
+
+
+# PLATFORM WEB
+We will most likely use Django as our internal web framework.
