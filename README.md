@@ -13,6 +13,12 @@ on the page along with its HTML for a better semantic parsing.
 We will most likely use Django as our internal web framework.
 
 
+#DATASET
+
+Wikibooks Dataset
+Complete text of over 185,000 pages of Wikibooks in 7 language https://www.kaggle.com/dhruvildave/wikibooks-dataset which contains 7 Languages and each language has more than 80000 rows.
+
+
 # Questions
 
 1) What kind of problem will solve our project?
