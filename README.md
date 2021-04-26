@@ -41,13 +41,16 @@ We will most likely use Django as our internal web framework.
  6) website
  7) Tracking activity,Moderating data
  8) can appreciate the poem,can choose  or poem or story
- 9)Anybody
- 10)generate a poem
- 11)DB: PL/SQL
-    Front: HTML, CSS, JavaScript, Bootstrap, JDBC
-    Java:
-      Back: JavaEE, Servlet 
- 12)It will be validated by moderator
- 13)Any type of devices that supports a browser
- 14)Users can estimate
- 15)Registration and authentication
+ 9) Anybody
+ 10) generate a poem
+ 11) DB: PL/SQL Front: HTML, CSS, JavaScript, Bootstrap, JDBC
+ 12) It will be validated by moderator
+ 13) Any type of devices that supports a browser
+ 14) Users can estimate
+ 15) Registration and authentication
+ 
+  
+ 
+   
+  
+  
