@@ -11,3 +11,43 @@ on the page along with its HTML for a better semantic parsing.
 
 # PLATFORM WEB
 We will most likely use Django as our internal web framework.
+
+
+# Questions
+
+1) What kind of problem will solve our project?
+2) What features would be useful?
+3) What is the data source?
+4) What is the use scenario?
+5) What is the exact business problem?
+6) What is the GUI of your project?
+7) What actions are available from the server side?
+8) What actions are available from the user side?
+9) Who will use this application?
+10) What functionality will we have?
+11) What kind of libraries and frameworks will be used?
+12) How data will be validated?
+13) What devices will be supported?
+14) How can a user leave feedback?
+15) What kind of user protection measures will be provided?
+
+# Answers
+
+ 1) helps to educated ml technology, and +1 tool for people
+ 2) i don't know 
+ 3) There are 7 different CSVs for 7 languages.
+ 4) A person can go to the site and generate a poem in 5 seconds
+ 5) no problem
+ 6) website
+ 7) Tracking activity,Moderating data
+ 8) can appreciate the poem,can choose  or poem or story
+ 9)Anybody
+ 10)generate a poem
+ 11)DB: PL/SQL
+    Front: HTML, CSS, JavaScript, Bootstrap, JDBC
+    Java:
+      Back: JavaEE, Servlet 
+ 12)It will be validated by moderator
+ 13)Any type of devices that supports a browser
+ 14)Users can estimate
+ 15)Registration and authentication
