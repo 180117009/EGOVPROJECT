@@ -37,24 +37,7 @@ Complete text of over 185,000 pages of Wikibooks in 7 language https://www.kaggl
 14) How can a user leave feedback?
 15) What kind of user protection measures will be provided?
 
-# Answers
 
- 1) helps to educated ml technology, and +1 tool for people
- 2) i don't know 
- 3) There are 7 different CSVs for 7 languages.
- 4) A person can go to the site and generate a poem in 5 seconds
- 5) no problem
- 6) website
- 7) Tracking activity,Moderating data
- 8) can appreciate the poem,can choose  or poem or story
- 9) Anybody
- 10) generate a poem
- 11) DB: PL/SQL Front: HTML, CSS, JavaScript, Bootstrap, JDBC
- 12) It will be validated by moderator
- 13) Any type of devices that supports a browser
- 14) Users can estimate
- 15) Registration and authentication
- 
   
  
    
